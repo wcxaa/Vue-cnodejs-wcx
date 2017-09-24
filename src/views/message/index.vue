@@ -35,6 +35,7 @@
     </div>
 </template>
 
+
 <script>
 const MESSAGE_HAS_READ = Symbol('message_has_read')
 const MESSAGE_NOT_READ = Symbol('message_not_read')
